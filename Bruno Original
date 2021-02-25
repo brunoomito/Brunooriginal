@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title=●Alternativos●", Combate HD
-https://cdn.esporteone.com/COMBATEHD/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/combate_ac3478d6_71f97e29a12618ee8701bac3bde1232959161e40/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0Ny4xMTIuMTAzIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyMTkyMzk7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title=●Alternativos●", Fox Sports HD
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/foxsportshd_98fbc42f_dbfb8525caccf780df045b5d927ad7d25959b7b2/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0Ny4xMTIuMTAzIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyMTcwNTc7fQ%3D%3D
@@ -16,10 +16,10 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv_91dfde1d_0c825b698f7846d
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_e9b8c5d5d4032748b09b63aa231423e3561e8904/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjQ0LjEzOC4xNTEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xOTAgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNDIxNzY2OTt9
 
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries", Telecine Action HD
-https://cdn.esporteone.com/TELECINEACTIONSD/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_eba655a2ca4a36a15472d51ce1f09179af3cf379/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0Ny4xMTIuMTAzIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyMTkzNTI7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries", Telecine Cult HD
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_608df14dc73ae3ffaf625ae133e3b85ff08302e9/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTg3LjQ0LjEzOC4xNTEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xOTAgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNDIxODQ4ODt9
 
 #EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries", Telecine Fun HD
-https://cdn.esporteone.com/TELECINEFUNSD/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinefun_ae1e7198_4f7802365f60bd1423c0152ba86e7918dda6dc0d/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0Ny4xMTIuMTAzIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTQyMTk0MjM7fQ%3D%3D
