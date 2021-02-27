@@ -5228,3 +5228,2617 @@ http://centova16.ciclanohost.com.br:9627/;
 https://596639ebdd89b.streamlock.net:443/8002/8002/playlist.m3u8
 
 (ultimos add radios)
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="4K [FHDR]",A&E 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90647
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades",A&E FHD
+http://dnsx.co:80/7885037935/fireurl.co/71760
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Alternativos",A&E FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90625
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades",A&E FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71761
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades",A&E HD
+http://dnsx.co:80/7885037935/fireurl.co/71762
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Alternativos",A&E HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90626
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Variedades",A&E SD
+http://dnsx.co:80/7885037935/fireurl.co/71763
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Alternativos",A&E SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90627
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Abertos",AgroMais FHD
+http://dnsx.co:80/7885037935/fireurl.co/71764
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Abertos",AgroMais FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71765
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Abertos",AgroMais HD
+http://dnsx.co:80/7885037935/fireurl.co/71766
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Abertos",AgroMais SD
+http://dnsx.co:80/7885037935/fireurl.co/71767
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="4K [FHDR]",AMC 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90646
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries",AMC FHD
+http://dnsx.co:80/7885037935/fireurl.co/71768
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Alternativos",AMC FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90622
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries",AMC FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71769
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries",AMC HD
+http://dnsx.co:80/7885037935/fireurl.co/71770
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Alternativos",AMC HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90623
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries",AMC SD
+http://dnsx.co:80/7885037935/fireurl.co/71771
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Alternativos",AMC SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90624
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="4K [FHDR]",Animal Planet 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71774
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários",Animal Planet FHD
+http://dnsx.co:80/7885037935/fireurl.co/71772
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Alternativos",Animal Planet FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90619
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários",Animal Planet FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71773
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários",Animal Planet HD
+http://dnsx.co:80/7885037935/fireurl.co/71775
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Alternativos",Animal Planet HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90620
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários",Animal Planet SD
+http://dnsx.co:80/7885037935/fireurl.co/71776
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Alternativos",Animal Planet SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90621
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Documentários",Arte 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/71777
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Documentários",Arte 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71778
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Documentários",Arte 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/71779
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Documentários",Arte 1 SD
+http://dnsx.co:80/7885037935/fireurl.co/71780
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="4K [FHDR]",AXN 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90645
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries",AXN FHD
+http://dnsx.co:80/7885037935/fireurl.co/71781
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Alternativos",AXN FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90616
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries",AXN FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71782
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Legendados",AXN FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90716
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries",AXN HD
+http://dnsx.co:80/7885037935/fireurl.co/71783
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Alternativos",AXN HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90617
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Legendados",AXN HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90715
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Filmes e Séries",AXN SD
+http://dnsx.co:80/7885037935/fireurl.co/71784
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Alternativos",AXN SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90618
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Legendados",AXN SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90714
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Abertos",Band BA SD
+http://dnsx.co:80/7885037935/fireurl.co/72620
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Maringa FHD
+http://dnsx.co:80/7885037935/fireurl.co/71785
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Maringa FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71786
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Maringa HD
+http://dnsx.co:80/7885037935/fireurl.co/71787
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Maringa SD
+http://dnsx.co:80/7885037935/fireurl.co/71788
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias",Band News FHD
+http://dnsx.co:80/7885037935/fireurl.co/71789
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Alternativos",Band News FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90613
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias",Band News FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71790
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias",Band News HD
+http://dnsx.co:80/7885037935/fireurl.co/71791
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Alternativos",Band News HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90614
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Notícias",Band News SD
+http://dnsx.co:80/7885037935/fireurl.co/71792
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Alternativos",Band News SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90615
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Prudente FHD
+http://dnsx.co:80/7885037935/fireurl.co/71793
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Prudente HD
+http://dnsx.co:80/7885037935/fireurl.co/71794
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band Prudente SD
+http://dnsx.co:80/7885037935/fireurl.co/71795
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band RJ FHD
+http://dnsx.co:80/7885037935/fireurl.co/71796
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band RJ FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71797
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band RJ HD
+http://dnsx.co:80/7885037935/fireurl.co/71799
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band RJ SD
+http://dnsx.co:80/7885037935/fireurl.co/71800
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band SP FHD
+http://dnsx.co:80/7885037935/fireurl.co/79311
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Alternativos",Band SP FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90610
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72597
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Alternativos",Band SP HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90611
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Abertos",Band SP SD
+http://dnsx.co:80/7885037935/fireurl.co/79312
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Alternativos",Band SP SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90612
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes",Band Sports FHD
+http://dnsx.co:80/7885037935/fireurl.co/71801
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Alternativos",Band Sports FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90607
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes",Band Sports FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71802
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes",Band Sports HD
+http://dnsx.co:80/7885037935/fireurl.co/71803
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Alternativos",Band Sports HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90608
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes",Band Sports SD
+http://dnsx.co:80/7885037935/fireurl.co/71804
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Alternativos",Band Sports SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90609
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/89722
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89721
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/89720
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 1 SD
+http://dnsx.co:80/7885037935/fireurl.co/89719
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/89714
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89713
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/89712
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/89711
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/93489
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/93490
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/93491
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa Extra FHD
+http://dnsx.co:80/7885037935/fireurl.co/93492
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa Extra HD
+http://dnsx.co:80/7885037935/fireurl.co/93493
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa Extra SD
+http://dnsx.co:80/7885037935/fireurl.co/93494
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa FHD
+http://dnsx.co:80/7885037935/fireurl.co/93495
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa HD
+http://dnsx.co:80/7885037935/fireurl.co/93496
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Acompanhe a Casa SD
+http://dnsx.co:80/7885037935/fireurl.co/93497
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Confessionario FHD
+http://dnsx.co:80/7885037935/fireurl.co/93498
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Confessionario HD
+http://dnsx.co:80/7885037935/fireurl.co/93499
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Confessionario SD
+http://dnsx.co:80/7885037935/fireurl.co/93500
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Cozinha Vip Xepa FHD
+http://dnsx.co:80/7885037935/fireurl.co/93501
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Cozinha Vip Xepa HD
+http://dnsx.co:80/7885037935/fireurl.co/93502
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Cozinha Vip Xepa SD
+http://dnsx.co:80/7885037935/fireurl.co/93503
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Jardim FHD
+http://dnsx.co:80/7885037935/fireurl.co/93504
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Jardim HD
+http://dnsx.co:80/7885037935/fireurl.co/93505
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Jardim SD
+http://dnsx.co:80/7885037935/fireurl.co/93506
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Mosaico FHD
+http://dnsx.co:80/7885037935/fireurl.co/89718
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Mosaico FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/89717
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Mosaico HD
+http://dnsx.co:80/7885037935/fireurl.co/89716
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Mosaico SD
+http://dnsx.co:80/7885037935/fireurl.co/89715
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Piscina FHD
+http://dnsx.co:80/7885037935/fireurl.co/93507
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Piscina HD
+http://dnsx.co:80/7885037935/fireurl.co/93508
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Piscina SD
+http://dnsx.co:80/7885037935/fireurl.co/93509
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Colorido FHD
+http://dnsx.co:80/7885037935/fireurl.co/93510
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Colorido HD
+http://dnsx.co:80/7885037935/fireurl.co/93511
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Colorido SD
+http://dnsx.co:80/7885037935/fireurl.co/93512
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Cordel FHD
+http://dnsx.co:80/7885037935/fireurl.co/93513
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Cordel HD
+http://dnsx.co:80/7885037935/fireurl.co/93514
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Quarto Cordel SD
+http://dnsx.co:80/7885037935/fireurl.co/93515
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala da Casa Extra FHD
+http://dnsx.co:80/7885037935/fireurl.co/93516
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala da Casa Extra HD
+http://dnsx.co:80/7885037935/fireurl.co/93517
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala da Casa Extra SD
+http://dnsx.co:80/7885037935/fireurl.co/93518
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala de Estar FHD
+http://dnsx.co:80/7885037935/fireurl.co/93519
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala de Estar HD
+http://dnsx.co:80/7885037935/fireurl.co/93520
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="BBB",BBB Sala de Estar SD
+http://dnsx.co:80/7885037935/fireurl.co/93521
+#EXTINF:-1 tvg-logo="" group-title="Notícias",BBC SD
+http://dnsx.co:80/7885037935/fireurl.co/71805
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades",BIS FHD
+http://dnsx.co:80/7885037935/fireurl.co/71806
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Alternativos",BIS FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90604
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades",BIS FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71807
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades",BIS HD
+http://dnsx.co:80/7885037935/fireurl.co/71808
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Alternativos",BIS HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90605
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Variedades",BIS SD
+http://dnsx.co:80/7885037935/fireurl.co/71809
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Alternativos",BIS SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90606
+#EXTINF:-1 tvg-logo="" group-title="Notícias",Bloomberg SD
+http://dnsx.co:80/7885037935/fireurl.co/71810
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Religiosos",Boa Vontade TV SD
+http://dnsx.co:80/7885037935/fireurl.co/71811
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="4K [FHDR]",Boomerang 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90644
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis",Boomerang FHD
+http://dnsx.co:80/7885037935/fireurl.co/71812
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Alternativos",Boomerang FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90601
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis",Boomerang FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71813
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis",Boomerang HD
+http://dnsx.co:80/7885037935/fireurl.co/71814
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Alternativos",Boomerang HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90602
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis",Boomerang SD
+http://dnsx.co:80/7885037935/fireurl.co/71815
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Alternativos",Boomerang SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90603
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries",Canal Brasil FHD
+http://dnsx.co:80/7885037935/fireurl.co/71816
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Alternativos",Canal Brasil FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90598
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries",Canal Brasil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71817
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries",Canal Brasil HD
+http://dnsx.co:80/7885037935/fireurl.co/71818
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Alternativos",Canal Brasil HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90599
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Filmes e Séries",Canal Brasil SD
+http://dnsx.co:80/7885037935/fireurl.co/71819
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Alternativos",Canal Brasil SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90600
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Abertos",Canal do Boi FHD
+http://dnsx.co:80/7885037935/fireurl.co/71820
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Abertos",Canal do Boi HD
+http://dnsx.co:80/7885037935/fireurl.co/71821
+#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Abertos",Canal do Boi SD
+http://dnsx.co:80/7885037935/fireurl.co/71822
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Abertos",Canal Rural SD
+http://dnsx.co:80/7885037935/fireurl.co/71823
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries",Canal Sony FHD
+http://dnsx.co:80/7885037935/fireurl.co/71824
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries",Canal Sony FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71825
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Legendados",Canal Sony FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90713
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries",Canal Sony HD
+http://dnsx.co:80/7885037935/fireurl.co/71826
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Legendados",Canal Sony HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90712
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Filmes e Séries",Canal Sony SD
+http://dnsx.co:80/7885037935/fireurl.co/71827
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Legendados",Canal Sony SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90711
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="4K [FHDR]",Cartoon Network 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71830
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis",Cartoon Network FHD
+http://dnsx.co:80/7885037935/fireurl.co/71828
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Alternativos",Cartoon Network FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90595
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis",Cartoon Network FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71829
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis",Cartoon Network HD
+http://dnsx.co:80/7885037935/fireurl.co/71831
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Alternativos",Cartoon Network HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90596
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis",Cartoon Network SD
+http://dnsx.co:80/7885037935/fireurl.co/71832
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Alternativos",Cartoon Network SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90597
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/72994
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 10 HD
+http://dnsx.co:80/7885037935/fireurl.co/73003
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72995
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/72996
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 4 HD
+http://dnsx.co:80/7885037935/fireurl.co/72997
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 5 HD
+http://dnsx.co:80/7885037935/fireurl.co/72998
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 6 HD
+http://dnsx.co:80/7885037935/fireurl.co/72999
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 7 HD
+http://dnsx.co:80/7885037935/fireurl.co/73000
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 8 HD
+http://dnsx.co:80/7885037935/fireurl.co/73001
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 9 HD
+http://dnsx.co:80/7885037935/fireurl.co/73002
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="4K [FHDR]",Cinemax 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90643
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries",Cinemax FHD
+http://dnsx.co:80/7885037935/fireurl.co/71833
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Alternativos",Cinemax FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90592
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries",Cinemax FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71834
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries",Cinemax HD
+http://dnsx.co:80/7885037935/fireurl.co/71835
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Alternativos",Cinemax HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90593
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries",Cinemax SD
+http://dnsx.co:80/7885037935/fireurl.co/71836
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Alternativos",Cinemax SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90594
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="4K [FHDR]",CNN Brasil 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71798
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN Brasil FHD
+http://dnsx.co:80/7885037935/fireurl.co/71837
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Alternativos",CNN Brasil FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90589
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN Brasil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71838
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN Brasil HD
+http://dnsx.co:80/7885037935/fireurl.co/71839
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Alternativos",CNN Brasil HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90590
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN Brasil SD
+http://dnsx.co:80/7885037935/fireurl.co/71840
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Alternativos",CNN Brasil SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90591
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN International SD
+http://dnsx.co:80/7885037935/fireurl.co/71841
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="4K [FHDR]",Combate 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71844
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes",Combate FHD
+http://dnsx.co:80/7885037935/fireurl.co/71842
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Alternativos",Combate FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90586
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes",Combate FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71843
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes",Combate HD
+http://dnsx.co:80/7885037935/fireurl.co/71845
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Alternativos",Combate HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90587
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes",Combate SD
+http://dnsx.co:80/7885037935/fireurl.co/71846
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Alternativos",Combate SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90588
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="4K [FHDR]",Comedy Central 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90642
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades",Comedy Central FHD
+http://dnsx.co:80/7885037935/fireurl.co/71847
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Alternativos",Comedy Central FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90583
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades",Comedy Central FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71848
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades",Comedy Central HD
+http://dnsx.co:80/7885037935/fireurl.co/71849
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Alternativos",Comedy Central HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90584
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades",Comedy Central SD
+http://dnsx.co:80/7885037935/fireurl.co/71850
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Alternativos",Comedy Central SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90585
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72977
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 1 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90580
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72978
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/72979
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 1 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90581
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 1 SD
+http://dnsx.co:80/7885037935/fireurl.co/72980
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 1 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90582
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72981
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90577
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72982
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72983
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90578
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72984
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90579
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72985
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 3 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90574
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 3 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72986
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/72987
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 3 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90575
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 3 SD
+http://dnsx.co:80/7885037935/fireurl.co/72988
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Alternativos",Conmebol TV 3 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90576
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 4 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72989
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 4 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72990
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 4 HD
+http://dnsx.co:80/7885037935/fireurl.co/72991
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="PPV",Conmebol TV 4 SD
+http://dnsx.co:80/7885037935/fireurl.co/72992
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos",Cultura FHD
+http://dnsx.co:80/7885037935/fireurl.co/71851
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos",Cultura FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71852
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos",Cultura HD
+http://dnsx.co:80/7885037935/fireurl.co/71853
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Abertos",Cultura SD
+http://dnsx.co:80/7885037935/fireurl.co/71854
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Documentários",Curta FHD
+http://dnsx.co:80/7885037935/fireurl.co/71855
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Documentários",Curta FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71856
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Documentários",Curta HD
+http://dnsx.co:80/7885037935/fireurl.co/71857
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Documentários",Curta SD
+http://dnsx.co:80/7885037935/fireurl.co/71858
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="PPV",DAZN 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/71860
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="PPV",DAZN 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72630
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="PPV",DAZN 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/71861
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="PPV",DAZN 4 HD
+http://dnsx.co:80/7885037935/fireurl.co/71859
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="4K [FHDR]",Discovery Channel 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71864
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários",Discovery Channel FHD
+http://dnsx.co:80/7885037935/fireurl.co/71862
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Alternativos",Discovery Channel FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90571
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários",Discovery Channel FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71863
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários",Discovery Channel HD
+http://dnsx.co:80/7885037935/fireurl.co/71865
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Alternativos",Discovery Channel HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90572
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Documentários",Discovery Channel SD
+http://dnsx.co:80/7885037935/fireurl.co/71866
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Alternativos",Discovery Channel SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90573
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="4K [FHDR]",Discovery H&H 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90251
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades",Discovery H&H FHD
+http://dnsx.co:80/7885037935/fireurl.co/71867
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Alternativos",Discovery H&H FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90568
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades",Discovery H&H FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71868
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades",Discovery H&H HD
+http://dnsx.co:80/7885037935/fireurl.co/71869
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Alternativos",Discovery H&H HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90569
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades",Discovery H&H SD
+http://dnsx.co:80/7885037935/fireurl.co/71870
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Alternativos",Discovery H&H SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90570
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="4K [FHDR]",Discovery Kids 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90250
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis",Discovery Kids FHD
+http://dnsx.co:80/7885037935/fireurl.co/71871
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Alternativos",Discovery Kids FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90565
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis",Discovery Kids FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71872
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis",Discovery Kids HD
+http://dnsx.co:80/7885037935/fireurl.co/71873
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Alternativos",Discovery Kids HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90566
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis",Discovery Kids SD
+http://dnsx.co:80/7885037935/fireurl.co/71874
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Alternativos",Discovery Kids SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90567
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários",Discovery Science FHD
+http://dnsx.co:80/7885037935/fireurl.co/71875
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Alternativos",Discovery Science FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90562
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários",Discovery Science FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71876
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários",Discovery Science HD
+http://dnsx.co:80/7885037935/fireurl.co/71877
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Alternativos",Discovery Science HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90563
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Documentários",Discovery Science SD
+http://dnsx.co:80/7885037935/fireurl.co/71878
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Alternativos",Discovery Science SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90564
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários",Discovery Theater FHD
+http://dnsx.co:80/7885037935/fireurl.co/71879
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Alternativos",Discovery Theater FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90559
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários",Discovery Theater FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71880
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários",Discovery Theater HD
+http://dnsx.co:80/7885037935/fireurl.co/71881
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Alternativos",Discovery Theater HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90560
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Documentários",Discovery Theater SD
+http://dnsx.co:80/7885037935/fireurl.co/71882
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Alternativos",Discovery Theater SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90561
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="4K [FHDR]",Discovery Turbo 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90641
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Variedades",Discovery Turbo FHD
+http://dnsx.co:80/7885037935/fireurl.co/71883
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Alternativos",Discovery Turbo FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90556
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Variedades",Discovery Turbo FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71884
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Variedades",Discovery Turbo HD
+http://dnsx.co:80/7885037935/fireurl.co/71885
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Alternativos",Discovery Turbo HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90557
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Variedades",Discovery Turbo SD
+http://dnsx.co:80/7885037935/fireurl.co/71886
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Alternativos",Discovery Turbo SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90558
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários",Discovery World FHD
+http://dnsx.co:80/7885037935/fireurl.co/71887
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Alternativos",Discovery World FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90553
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários",Discovery World FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71888
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários",Discovery World HD
+http://dnsx.co:80/7885037935/fireurl.co/71889
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Alternativos",Discovery World HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90554
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Documentários",Discovery World SD
+http://dnsx.co:80/7885037935/fireurl.co/71890
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Alternativos",Discovery World SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90555
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis",Disney Channel FHD
+http://dnsx.co:80/7885037935/fireurl.co/71891
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Alternativos",Disney Channel FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90550
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis",Disney Channel FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71892
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis",Disney Channel HD
+http://dnsx.co:80/7885037935/fireurl.co/71893
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Alternativos",Disney Channel HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90551
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Infantis",Disney Channel SD
+http://dnsx.co:80/7885037935/fireurl.co/71894
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Alternativos",Disney Channel SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90552
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis",Disney Junior FHD
+http://dnsx.co:80/7885037935/fireurl.co/71895
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Alternativos",Disney Junior FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90547
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis",Disney Junior FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71896
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis",Disney Junior HD
+http://dnsx.co:80/7885037935/fireurl.co/71897
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Alternativos",Disney Junior HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90548
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Infantis",Disney Junior SD
+http://dnsx.co:80/7885037935/fireurl.co/71898
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Alternativos",Disney Junior SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90549
+#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Infantis",Disney XD SD
+http://dnsx.co:80/7885037935/fireurl.co/71899
+#EXTINF:-1 tvg-logo="" group-title="Variedades",DogTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/76922
+#EXTINF:-1 tvg-logo="" group-title="Variedades",DogTV HD
+http://dnsx.co:80/7885037935/fireurl.co/76923
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades",E! FHD
+http://dnsx.co:80/7885037935/fireurl.co/71900
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Alternativos",E! FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90544
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades",E! FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71901
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades",E! HD
+http://dnsx.co:80/7885037935/fireurl.co/71902
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Alternativos",E! HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90545
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Variedades",E! SD
+http://dnsx.co:80/7885037935/fireurl.co/71903
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Alternativos",E! SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90546
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",EI Plus 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/71904
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",EI Plus 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/71905
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",EI Plus 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/71906
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",Ei Plus 4 HD
+http://dnsx.co:80/7885037935/fireurl.co/76671
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",Ei Plus 5 HD
+http://dnsx.co:80/7885037935/fireurl.co/76672
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="PPV",Ei Plus 6 HD
+http://dnsx.co:80/7885037935/fireurl.co/76673
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73254
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73255
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73256
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 4 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73257
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 5 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73258
+#EXTINF:-1 tvg-logo="" group-title="PPV",Eleven Sports 6 FHD
+http://dnsx.co:80/7885037935/fireurl.co/73259
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="ESPN",ESPN 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/71907
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Alternativos",ESPN 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90541
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="ESPN",ESPN 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71908
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="ESPN",ESPN 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/71909
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Alternativos",ESPN 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90542
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="ESPN",ESPN 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/71910
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Alternativos",ESPN 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90543
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="4K [FHDR]",ESPN 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71921
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="4K [FHDR]",ESPN Brasil 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90640
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="ESPN",ESPN Brasil FHD
+http://dnsx.co:80/7885037935/fireurl.co/71911
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Alternativos",ESPN Brasil FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90535
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="ESPN",ESPN Brasil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71912
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="ESPN",ESPN Brasil HD
+http://dnsx.co:80/7885037935/fireurl.co/71913
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Alternativos",ESPN Brasil HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90536
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="ESPN",ESPN Brasil SD
+http://dnsx.co:80/7885037935/fireurl.co/71914
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Alternativos",ESPN Brasil SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90537
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="ESPN",ESPN Extra FHD
+http://dnsx.co:80/7885037935/fireurl.co/71915
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Alternativos",ESPN Extra FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90532
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="ESPN",ESPN Extra FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71916
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="ESPN",ESPN Extra HD
+http://dnsx.co:80/7885037935/fireurl.co/71917
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Alternativos",ESPN Extra HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90533
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="ESPN",ESPN Extra SD
+http://dnsx.co:80/7885037935/fireurl.co/71918
+#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Alternativos",ESPN Extra SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90534
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="ESPN",ESPN FHD
+http://dnsx.co:80/7885037935/fireurl.co/71919
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Alternativos",ESPN FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90538
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="ESPN",ESPN FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71920
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="ESPN",ESPN HD
+http://dnsx.co:80/7885037935/fireurl.co/71922
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Alternativos",ESPN HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90539
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="ESPN",ESPN SD
+http://dnsx.co:80/7885037935/fireurl.co/71923
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Alternativos",ESPN SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90540
+#EXTINF:-1 tvg-logo="" group-title="PPV",Facebook Watch 
+http://dnsx.co:80/7885037935/fireurl.co/73005
+#EXTINF:-1 tvg-logo="" group-title="PPV",Facebook Watch 2 
+http://dnsx.co:80/7885037935/fireurl.co/79316
+#EXTINF:-1 tvg-logo="" group-title="PPV",Facebook Watch 3 
+http://dnsx.co:80/7885037935/fireurl.co/79317
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Variedades",FashionTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/71924
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Variedades",FashionTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71925
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Variedades",FashionTV HD
+http://dnsx.co:80/7885037935/fireurl.co/71926
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Variedades",FashionTV SD
+http://dnsx.co:80/7885037935/fireurl.co/71927
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades",Fish TV FHD
+http://dnsx.co:80/7885037935/fireurl.co/71928
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades",Fish TV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71929
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades",Fish TV HD
+http://dnsx.co:80/7885037935/fireurl.co/71930
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Variedades",Fish TV SD
+http://dnsx.co:80/7885037935/fireurl.co/71931
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades",Food Network FHD
+http://dnsx.co:80/7885037935/fireurl.co/71932
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Alternativos",Food Network FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90529
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades",Food Network FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71933
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades",Food Network HD
+http://dnsx.co:80/7885037935/fireurl.co/71934
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Alternativos",Food Network HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90530
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades",Food Network SD
+http://dnsx.co:80/7885037935/fireurl.co/71935
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Alternativos",Food Network SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90531
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="4K [FHDR]",FOX 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90249
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Filmes e Séries",Fox FHD
+http://dnsx.co:80/7885037935/fireurl.co/71936
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Alternativos",Fox FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90526
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Filmes e Séries",Fox FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71937
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Legendados",Fox FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90707
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Filmes e Séries",Fox HD
+http://dnsx.co:80/7885037935/fireurl.co/71938
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Alternativos",Fox HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90527
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Legendados",Fox HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90706
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Variedades",Fox Life FHD
+http://dnsx.co:80/7885037935/fireurl.co/71939
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Alternativos",Fox Life FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90523
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Variedades",Fox Life FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71940
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Variedades",Fox Life HD
+http://dnsx.co:80/7885037935/fireurl.co/71941
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Alternativos",Fox Life HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90524
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Variedades",Fox Life SD
+http://dnsx.co:80/7885037935/fireurl.co/71942
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Alternativos",Fox Life SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90525
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Filmes e Séries",Fox Premium 1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/71943
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Alternativos",Fox Premium 1 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90520
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Filmes e Séries",Fox Premium 1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71944
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Legendados",Fox Premium 1 FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90704
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Filmes e Séries",Fox Premium 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/71945
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Alternativos",Fox Premium 1 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90521
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Legendados",Fox Premium 1 HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90703
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Filmes e Séries",Fox Premium 1 SD
+http://dnsx.co:80/7885037935/fireurl.co/71946
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Alternativos",Fox Premium 1 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90522
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Legendados",Fox Premium 1 SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90702
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Filmes e Séries",Fox Premium 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/71947
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Alternativos",Fox Premium 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90517
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Filmes e Séries",Fox Premium 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71948
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Legendados",Fox Premium 2 FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90701
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Filmes e Séries",Fox Premium 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/71949
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Alternativos",Fox Premium 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90518
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Legendados",Fox Premium 2 HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90700
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Filmes e Séries",Fox Premium 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/71950
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Alternativos",Fox Premium 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90519
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Legendados",Fox Premium 2 SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90699
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Filmes e Séries",Fox SD
+http://dnsx.co:80/7885037935/fireurl.co/71951
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Alternativos",Fox SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90528
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Legendados",Fox SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90705
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="4K [FHDR]",Fox Sports 2 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71954
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes",Fox Sports 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/71952
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Alternativos",Fox Sports 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90514
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes",Fox Sports 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71953
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes",Fox Sports 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/71955
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Alternativos",Fox Sports 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90515
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes",Fox Sports 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/71956
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Alternativos",Fox Sports 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90516
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="4K [FHDR]",Fox Sports 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/71959
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes",Fox Sports FHD
+http://dnsx.co:80/7885037935/fireurl.co/71957
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Alternativos",Fox Sports FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90511
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes",Fox Sports FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71958
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes",Fox Sports HD
+http://dnsx.co:80/7885037935/fireurl.co/71960
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Alternativos",Fox Sports HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90512
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Esportes",Fox Sports SD
+http://dnsx.co:80/7885037935/fireurl.co/71961
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Alternativos",Fox Sports SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90513
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos",Futura FHD
+http://dnsx.co:80/7885037935/fireurl.co/71962
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos",Futura FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71963
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos",Futura HD
+http://dnsx.co:80/7885037935/fireurl.co/71964
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Abertos",Futura SD
+http://dnsx.co:80/7885037935/fireurl.co/71965
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="4K [FHDR]",FX 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90639
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries",FX FHD
+http://dnsx.co:80/7885037935/fireurl.co/71966
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Alternativos",FX FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90508
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries",FX FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71967
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Legendados",FX FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90710
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries",FX HD
+http://dnsx.co:80/7885037935/fireurl.co/71968
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Alternativos",FX HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90509
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Legendados",FX HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90709
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries",FX SD
+http://dnsx.co:80/7885037935/fireurl.co/71969
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Alternativos",FX SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90510
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Legendados",FX SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90708
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Brasilia FHD
+http://dnsx.co:80/7885037935/fireurl.co/71973
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Brasilia FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90505
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Brasilia HD
+http://dnsx.co:80/7885037935/fireurl.co/71974
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Brasilia HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90506
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Brasilia SD
+http://dnsx.co:80/7885037935/fireurl.co/71975
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Brasilia SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90507
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Campinas FHD
+http://dnsx.co:80/7885037935/fireurl.co/71976
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo EPTV Campinas FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90502
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Campinas HD
+http://dnsx.co:80/7885037935/fireurl.co/71977
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo EPTV Campinas HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90503
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Campinas SD
+http://dnsx.co:80/7885037935/fireurl.co/71978
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo EPTV Campinas SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90504
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Central HD
+http://dnsx.co:80/7885037935/fireurl.co/93580
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Central SD
+http://dnsx.co:80/7885037935/fireurl.co/93582
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Ribeirao Preto HD
+http://dnsx.co:80/7885037935/fireurl.co/72589
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Ribeirao Preto SD
+http://dnsx.co:80/7885037935/fireurl.co/72591
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Sao Carlos SD
+http://dnsx.co:80/7885037935/fireurl.co/72592
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Sul de Minas FHD
+http://dnsx.co:80/7885037935/fireurl.co/71979
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Sul de Minas HD
+http://dnsx.co:80/7885037935/fireurl.co/71980
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo EPTV Sul de Minas SD
+http://dnsx.co:80/7885037935/fireurl.co/71981
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Alto Litoral FHD
+http://dnsx.co:80/7885037935/fireurl.co/71982
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Alto Litoral HD
+http://dnsx.co:80/7885037935/fireurl.co/71983
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Alto Litoral SD
+http://dnsx.co:80/7885037935/fireurl.co/71984
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Cabugi FHD
+http://dnsx.co:80/7885037935/fireurl.co/71985
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Cabugi HD
+http://dnsx.co:80/7885037935/fireurl.co/71986
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Cabugi SD
+http://dnsx.co:80/7885037935/fireurl.co/71987
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV dos Vales FHD
+http://dnsx.co:80/7885037935/fireurl.co/71988
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV dos Vales HD
+http://dnsx.co:80/7885037935/fireurl.co/71989
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV dos Vales SD
+http://dnsx.co:80/7885037935/fireurl.co/71990
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Grande Minas FHD
+http://dnsx.co:80/7885037935/fireurl.co/71991
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Grande Minas HD
+http://dnsx.co:80/7885037935/fireurl.co/71992
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Grande Minas SD
+http://dnsx.co:80/7885037935/fireurl.co/71993
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Serra Mar FHD
+http://dnsx.co:80/7885037935/fireurl.co/71994
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Serra Mar HD
+http://dnsx.co:80/7885037935/fireurl.co/71995
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Inter TV Serra Mar SD
+http://dnsx.co:80/7885037935/fireurl.co/71996
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo InterTV Costa Branca HD
+http://dnsx.co:80/7885037935/fireurl.co/93581
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo InterTV Costa Branca SD
+http://dnsx.co:80/7885037935/fireurl.co/93585
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo InterTV Planicie HD
+http://dnsx.co:80/7885037935/fireurl.co/93586
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo InterTV Planicie SD
+http://dnsx.co:80/7885037935/fireurl.co/93587
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Minas FHD
+http://dnsx.co:80/7885037935/fireurl.co/71970
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Minas FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90499
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Minas HD
+http://dnsx.co:80/7885037935/fireurl.co/71971
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Minas HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90500
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Minas SD
+http://dnsx.co:80/7885037935/fireurl.co/71972
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Minas SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90501
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="4K [FHDR]",Globo News 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90248
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias",Globo News FHD
+http://dnsx.co:80/7885037935/fireurl.co/71997
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Alternativos",Globo News FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90496
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias",Globo News FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/71998
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias",Globo News HD
+http://dnsx.co:80/7885037935/fireurl.co/71999
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Alternativos",Globo News HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90497
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Notícias",Globo News SD
+http://dnsx.co:80/7885037935/fireurl.co/72000
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Alternativos",Globo News SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90498
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Nordeste FHD
+http://dnsx.co:80/7885037935/fireurl.co/72001
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Nordeste FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90493
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Nordeste HD
+http://dnsx.co:80/7885037935/fireurl.co/72002
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Nordeste HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90494
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Nordeste SD
+http://dnsx.co:80/7885037935/fireurl.co/72003
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Nordeste SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90495
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Blumenau FHD
+http://dnsx.co:80/7885037935/fireurl.co/72004
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Blumenau HD
+http://dnsx.co:80/7885037935/fireurl.co/72005
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Blumenau SD
+http://dnsx.co:80/7885037935/fireurl.co/72006
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Chapeco FHD
+http://dnsx.co:80/7885037935/fireurl.co/72007
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Chapeco HD
+http://dnsx.co:80/7885037935/fireurl.co/72008
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Chapeco SD
+http://dnsx.co:80/7885037935/fireurl.co/72009
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Florianopolis FHD
+http://dnsx.co:80/7885037935/fireurl.co/72010
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo NSC TV Florianopolis FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90490
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Florianopolis HD
+http://dnsx.co:80/7885037935/fireurl.co/72011
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo NSC TV Florianopolis HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90491
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Florianopolis SD
+http://dnsx.co:80/7885037935/fireurl.co/72012
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo NSC TV Florianopolis SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90492
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Joinville FHD
+http://dnsx.co:80/7885037935/fireurl.co/91034
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Joinville HD
+http://dnsx.co:80/7885037935/fireurl.co/91033
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo NSC TV Joinville SD
+http://dnsx.co:80/7885037935/fireurl.co/91032
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Caxias do Sul FHD
+http://dnsx.co:80/7885037935/fireurl.co/72013
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Caxias do Sul HD
+http://dnsx.co:80/7885037935/fireurl.co/72014
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Caxias do Sul SD
+http://dnsx.co:80/7885037935/fireurl.co/72015
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Pelotas FHD
+http://dnsx.co:80/7885037935/fireurl.co/72617
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Pelotas HD
+http://dnsx.co:80/7885037935/fireurl.co/72618
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Porto Alegre FHD
+http://dnsx.co:80/7885037935/fireurl.co/72016
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Porto Alegre HD
+http://dnsx.co:80/7885037935/fireurl.co/72017
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RBS TV Porto Alegre SD
+http://dnsx.co:80/7885037935/fireurl.co/72018
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Boa Vista HD
+http://dnsx.co:80/7885037935/fireurl.co/93588
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Boa Vista SD
+http://dnsx.co:80/7885037935/fireurl.co/93589
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Macapa HD
+http://dnsx.co:80/7885037935/fireurl.co/93590
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Macapa SD
+http://dnsx.co:80/7885037935/fireurl.co/93591
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Manaus FHD
+http://dnsx.co:80/7885037935/fireurl.co/72019
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Rede Amazonica Manaus FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90487
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Manaus HD
+http://dnsx.co:80/7885037935/fireurl.co/72020
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Rede Amazonica Manaus HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90488
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Manaus SD
+http://dnsx.co:80/7885037935/fireurl.co/72021
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo Rede Amazonica Manaus SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90489
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Porto Velho HD
+http://dnsx.co:80/7885037935/fireurl.co/93592
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Porto Velho SD
+http://dnsx.co:80/7885037935/fireurl.co/93593
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Rio Branco HD
+http://dnsx.co:80/7885037935/fireurl.co/93594
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Amazonica Rio Branco SD
+http://dnsx.co:80/7885037935/fireurl.co/93595
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Bahia FHD
+http://dnsx.co:80/7885037935/fireurl.co/72022
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Bahia HD
+http://dnsx.co:80/7885037935/fireurl.co/72023
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo Rede Bahia SD
+http://dnsx.co:80/7885037935/fireurl.co/72024
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RJ FHD
+http://dnsx.co:80/7885037935/fireurl.co/72025
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RJ FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90484
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RJ HD
+http://dnsx.co:80/7885037935/fireurl.co/72026
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RJ HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90485
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RJ SD
+http://dnsx.co:80/7885037935/fireurl.co/72027
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RJ SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90486
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC Paranavai FHD
+http://dnsx.co:80/7885037935/fireurl.co/72028
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC Paranavai HD
+http://dnsx.co:80/7885037935/fireurl.co/72029
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC Paranavai SD
+http://dnsx.co:80/7885037935/fireurl.co/72030
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Curitiba FHD
+http://dnsx.co:80/7885037935/fireurl.co/72625
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RPC TV Curitiba FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90481
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Curitiba HD
+http://dnsx.co:80/7885037935/fireurl.co/72626
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RPC TV Curitiba HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90482
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Curitiba SD
+http://dnsx.co:80/7885037935/fireurl.co/72627
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo RPC TV Curitiba SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90483
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Foz do Iguacu FHD
+http://dnsx.co:80/7885037935/fireurl.co/72032
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Foz do Iguacu HD
+http://dnsx.co:80/7885037935/fireurl.co/72033
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Foz do Iguacu SD
+http://dnsx.co:80/7885037935/fireurl.co/72034
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Maringa FHD
+http://dnsx.co:80/7885037935/fireurl.co/72031
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Maringa HD
+http://dnsx.co:80/7885037935/fireurl.co/72035
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Maringa SD
+http://dnsx.co:80/7885037935/fireurl.co/72039
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Ponta Grossa FHD
+http://dnsx.co:80/7885037935/fireurl.co/72036
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Ponta Grossa HD
+http://dnsx.co:80/7885037935/fireurl.co/72037
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo RPC TV Ponta Grossa SD
+http://dnsx.co:80/7885037935/fireurl.co/72038
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo SP FHD
+http://dnsx.co:80/7885037935/fireurl.co/72040
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo SP FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90478
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72041
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo SP HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90479
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo SP SD
+http://dnsx.co:80/7885037935/fireurl.co/72042
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo SP SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90480
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Anhanguera FHD
+http://dnsx.co:80/7885037935/fireurl.co/72043
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Anhanguera HD
+http://dnsx.co:80/7885037935/fireurl.co/72044
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Anhanguera SD
+http://dnsx.co:80/7885037935/fireurl.co/72045
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Bahia FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90475
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Bahia HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90476
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Bahia SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90477
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Cabo Branco FHD
+http://dnsx.co:80/7885037935/fireurl.co/72046
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Cabo Branco HD
+http://dnsx.co:80/7885037935/fireurl.co/72047
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Cabo Branco SD
+http://dnsx.co:80/7885037935/fireurl.co/72048
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Centro America FHD
+http://dnsx.co:80/7885037935/fireurl.co/72049
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Centro America HD
+http://dnsx.co:80/7885037935/fireurl.co/72050
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Centro America SD
+http://dnsx.co:80/7885037935/fireurl.co/72051
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Clube Teresina FHD
+http://dnsx.co:80/7885037935/fireurl.co/72052
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Clube Teresina HD
+http://dnsx.co:80/7885037935/fireurl.co/72053
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Clube Teresina SD
+http://dnsx.co:80/7885037935/fireurl.co/72054
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Fronteira HD
+http://dnsx.co:80/7885037935/fireurl.co/93596
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Fronteira SD
+http://dnsx.co:80/7885037935/fireurl.co/93597
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Alagoas FHD
+http://dnsx.co:80/7885037935/fireurl.co/72055
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Alagoas HD
+http://dnsx.co:80/7885037935/fireurl.co/72056
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Alagoas SD
+http://dnsx.co:80/7885037935/fireurl.co/72057
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Sul FHD
+http://dnsx.co:80/7885037935/fireurl.co/72058
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Sul HD
+http://dnsx.co:80/7885037935/fireurl.co/72059
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Sul SD
+http://dnsx.co:80/7885037935/fireurl.co/72060
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Vitoria FHD
+http://dnsx.co:80/7885037935/fireurl.co/72061
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Gazeta Vitoria FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90472
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Vitoria HD
+http://dnsx.co:80/7885037935/fireurl.co/72062
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Gazeta Vitoria HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90473
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Gazeta Vitoria SD
+http://dnsx.co:80/7885037935/fireurl.co/72063
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Gazeta Vitoria SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90474
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Araxa FHD
+http://dnsx.co:80/7885037935/fireurl.co/72064
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Araxa HD
+http://dnsx.co:80/7885037935/fireurl.co/72065
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Araxa SD
+http://dnsx.co:80/7885037935/fireurl.co/72066
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Juiz de Fora FHD
+http://dnsx.co:80/7885037935/fireurl.co/72067
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Juiz de Fora HD
+http://dnsx.co:80/7885037935/fireurl.co/72068
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Juiz de Fora SD
+http://dnsx.co:80/7885037935/fireurl.co/72069
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Uberlandia HD
+http://dnsx.co:80/7885037935/fireurl.co/93598
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Integracao Uberlandia SD
+http://dnsx.co:80/7885037935/fireurl.co/93599
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Liberal Belem FHD
+http://dnsx.co:80/7885037935/fireurl.co/72070
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Liberal Belem FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90469
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Liberal Belem HD
+http://dnsx.co:80/7885037935/fireurl.co/72071
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Liberal Belem HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90470
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Liberal Belem SD
+http://dnsx.co:80/7885037935/fireurl.co/72072
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Liberal Belem SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90471
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Cocais HD
+http://dnsx.co:80/7885037935/fireurl.co/93600
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Cocais SD
+http://dnsx.co:80/7885037935/fireurl.co/93601
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Imperatriz HD
+http://dnsx.co:80/7885037935/fireurl.co/93602
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Imperatriz SD
+http://dnsx.co:80/7885037935/fireurl.co/93603
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Sao Luis FHD
+http://dnsx.co:80/7885037935/fireurl.co/72073
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Mirante Sao Luis FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90466
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Sao Luis HD
+http://dnsx.co:80/7885037935/fireurl.co/72074
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Mirante Sao Luis HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90467
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Mirante Sao Luis SD
+http://dnsx.co:80/7885037935/fireurl.co/72075
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Mirante Sao Luis SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90468
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Morena FHD
+http://dnsx.co:80/7885037935/fireurl.co/72076
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Morena HD
+http://dnsx.co:80/7885037935/fireurl.co/72077
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Morena SD
+http://dnsx.co:80/7885037935/fireurl.co/72078
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Rio Sul FHD
+http://dnsx.co:80/7885037935/fireurl.co/72079
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Rio Sul HD
+http://dnsx.co:80/7885037935/fireurl.co/72081
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Rio Sul SD
+http://dnsx.co:80/7885037935/fireurl.co/72082
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Santa Cruz FHD
+http://dnsx.co:80/7885037935/fireurl.co/72083
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Santa Cruz HD
+http://dnsx.co:80/7885037935/fireurl.co/72084
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Santa Cruz SD
+http://dnsx.co:80/7885037935/fireurl.co/72085
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sergipe FHD
+http://dnsx.co:80/7885037935/fireurl.co/72086
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sergipe HD
+http://dnsx.co:80/7885037935/fireurl.co/72087
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sergipe SD
+http://dnsx.co:80/7885037935/fireurl.co/72088
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Subae FHD
+http://dnsx.co:80/7885037935/fireurl.co/72089
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Subae HD
+http://dnsx.co:80/7885037935/fireurl.co/72090
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Subae SD
+http://dnsx.co:80/7885037935/fireurl.co/72091
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sudoeste FHD
+http://dnsx.co:80/7885037935/fireurl.co/72092
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sudoeste HD
+http://dnsx.co:80/7885037935/fireurl.co/72093
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Sudoeste SD
+http://dnsx.co:80/7885037935/fireurl.co/72094
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Bauru FHD
+http://dnsx.co:80/7885037935/fireurl.co/91431
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Bauru FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90463
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Bauru HD
+http://dnsx.co:80/7885037935/fireurl.co/91432
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Bauru HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90464
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV TEM Bauru SD
+http://dnsx.co:80/7885037935/fireurl.co/72616
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Bauru SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90465
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Itapetininga FHD
+http://dnsx.co:80/7885037935/fireurl.co/91435
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Itapetininga FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90460
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Itapetininga HD
+http://dnsx.co:80/7885037935/fireurl.co/91436
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Itapetininga HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90461
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Itapetininga SD
+http://dnsx.co:80/7885037935/fireurl.co/91437
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Itapetininga SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90462
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV TEM S.J Rio Preto SD
+http://dnsx.co:80/7885037935/fireurl.co/72622
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Sao Jose do Rio Preto FHD
+http://dnsx.co:80/7885037935/fireurl.co/91433
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sao Jose do Rio Preto FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90457
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Sao Jose do Rio Preto HD
+http://dnsx.co:80/7885037935/fireurl.co/91434
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sao Jose do Rio Preto HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90458
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sao Jose do Rio Preto SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90459
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Sorocaba FHD
+http://dnsx.co:80/7885037935/fireurl.co/91438
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sorocaba FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90454
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV TEM Sorocaba HD
+http://dnsx.co:80/7885037935/fireurl.co/91439
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sorocaba HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90455
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV TEM Sorocaba SD
+http://dnsx.co:80/7885037935/fireurl.co/72623
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV TEM Sorocaba SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90456
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Tribuna Santos HD
+http://dnsx.co:80/7885037935/fireurl.co/93604
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Tribuna Santos SD
+http://dnsx.co:80/7885037935/fireurl.co/72596
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Vanguarda S.J dos Campos SD
+http://dnsx.co:80/7885037935/fireurl.co/72624
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Vanguarda Taubate HD
+http://dnsx.co:80/7885037935/fireurl.co/93605
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Vanguarda Taubate SD
+http://dnsx.co:80/7885037935/fireurl.co/93606
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="4K [FHDR]",Globo TV Verdes Mares 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72080
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV Verdes Mares Cariri FHD
+http://dnsx.co:80/7885037935/fireurl.co/91440
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares Cariri FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90448
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV Verdes Mares Cariri HD
+http://dnsx.co:80/7885037935/fireurl.co/91441
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares Cariri HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90449
+#EXTINF:-1 tvg-logo="" group-title="Globo",Globo TV Verdes Mares Cariri SD
+http://dnsx.co:80/7885037935/fireurl.co/91442
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares Cariri SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90450
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Verdes Mares FHD
+http://dnsx.co:80/7885037935/fireurl.co/72095
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90451
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Verdes Mares HD
+http://dnsx.co:80/7885037935/fireurl.co/72096
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90452
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Globo",Globo TV Verdes Mares SD
+http://dnsx.co:80/7885037935/fireurl.co/72097
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Alternativos",Globo TV Verdes Mares SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90453
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob FHD
+http://dnsx.co:80/7885037935/fireurl.co/72098
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Alternativos",Gloob FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90445
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72099
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob HD
+http://dnsx.co:80/7885037935/fireurl.co/72100
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Alternativos",Gloob HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90446
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob SD
+http://dnsx.co:80/7885037935/fireurl.co/72101
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Alternativos",Gloob SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90447
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis",Gloobinho FHD
+http://dnsx.co:80/7885037935/fireurl.co/90631
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Alternativos",Gloobinho FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90442
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis",Gloobinho FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/90630
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis",Gloobinho HD
+http://dnsx.co:80/7885037935/fireurl.co/90629
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Alternativos",Gloobinho HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90443
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis",Gloobinho SD
+http://dnsx.co:80/7885037935/fireurl.co/90628
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Alternativos",Gloobinho SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90444
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="4K [FHDR]",GNT 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90638
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades",GNT FHD
+http://dnsx.co:80/7885037935/fireurl.co/72102
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Alternativos",GNT FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90439
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades",GNT FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72103
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades",GNT HD
+http://dnsx.co:80/7885037935/fireurl.co/72104
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Alternativos",GNT HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90440
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades",GNT SD
+http://dnsx.co:80/7885037935/fireurl.co/72105
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Alternativos",GNT SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90441
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="4K [FHDR]",H2 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90245
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários",H2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72106
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Alternativos",H2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90436
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários",H2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72107
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários",H2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72108
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Alternativos",H2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90437
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Documentários",H2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72109
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Alternativos",H2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90438
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="4K [FHDR]",HBO 2 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90246
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="HBO",HBO 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72110
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Alternativos",HBO 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90433
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="HBO",HBO 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72111
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="HBO",HBO 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72112
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Alternativos",HBO 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90434
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="HBO",HBO 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72113
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Alternativos",HBO 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90435
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="4K [FHDR]",HBO 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90247
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="4K [FHDR]",HBO Family 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90637
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="HBO",HBO Family FHD
+http://dnsx.co:80/7885037935/fireurl.co/72114
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Alternativos",HBO Family FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90427
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="HBO",HBO Family FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72115
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="HBO",HBO Family HD
+http://dnsx.co:80/7885037935/fireurl.co/72116
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Alternativos",HBO Family HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90428
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="HBO",HBO Family SD
+http://dnsx.co:80/7885037935/fireurl.co/72117
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Alternativos",HBO Family SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90429
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="HBO",HBO FHD
+http://dnsx.co:80/7885037935/fireurl.co/72118
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Alternativos",HBO FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90430
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="HBO",HBO FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72119
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Legendados",HBO FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90698
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="HBO",HBO HD
+http://dnsx.co:80/7885037935/fireurl.co/72120
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Alternativos",HBO HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90431
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Legendados",HBO HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90697
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="HBO",HBO Mundi FHD
+http://dnsx.co:80/7885037935/fireurl.co/72121
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="HBO",HBO Mundi FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72122
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Legendados",HBO Mundi FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90695
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="HBO",HBO Mundi HD
+http://dnsx.co:80/7885037935/fireurl.co/72123
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Legendados",HBO Mundi HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90694
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="HBO",HBO Mundi SD
+http://dnsx.co:80/7885037935/fireurl.co/72124
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Legendados",HBO Mundi SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90693
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="4K [FHDR]",HBO Plus 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90635
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="HBO",HBO Plus FHD
+http://dnsx.co:80/7885037935/fireurl.co/72125
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Alternativos",HBO Plus FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90424
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="HBO",HBO Plus FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72126
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Legendados",HBO Plus FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90692
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="HBO",HBO Plus HD
+http://dnsx.co:80/7885037935/fireurl.co/72127
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Alternativos",HBO Plus HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90425
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Legendados",HBO Plus HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90691
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="HBO",HBO Plus SD
+http://dnsx.co:80/7885037935/fireurl.co/72128
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Alternativos",HBO Plus SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90426
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Legendados",HBO Plus SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90690
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="HBO",HBO Pop FHD
+http://dnsx.co:80/7885037935/fireurl.co/72129
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="HBO",HBO Pop FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72130
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Legendados",HBO Pop FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="HBO",HBO Pop HD
+http://dnsx.co:80/7885037935/fireurl.co/72131
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Legendados",HBO Pop HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90688
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="HBO",HBO Pop SD
+http://dnsx.co:80/7885037935/fireurl.co/72132
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Legendados",HBO Pop SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90687
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="HBO",HBO SD
+http://dnsx.co:80/7885037935/fireurl.co/72133
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Alternativos",HBO SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90432
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Legendados",HBO SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90696
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="HBO",HBO Signature FHD
+http://dnsx.co:80/7885037935/fireurl.co/72134
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="HBO",HBO Signature FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72135
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Legendados",HBO Signature FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90686
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="HBO",HBO Signature HD
+http://dnsx.co:80/7885037935/fireurl.co/72136
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Legendados",HBO Signature HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90685
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="HBO",HBO Signature SD
+http://dnsx.co:80/7885037935/fireurl.co/72137
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Legendados",HBO Signature SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="4K [FHDR]",HBO Xtreme 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90636
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="HBO",HBO Xtreme FHD
+http://dnsx.co:80/7885037935/fireurl.co/72138
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="HBO",HBO Xtreme FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72139
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Legendados",HBO Xtreme FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="HBO",HBO Xtreme HD
+http://dnsx.co:80/7885037935/fireurl.co/72140
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Legendados",HBO Xtreme HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="HBO",HBO Xtreme SD
+http://dnsx.co:80/7885037935/fireurl.co/72141
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Legendados",HBO Xtreme SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90681
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Documentários",HGTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72142
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Alternativos",HGTV FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90421
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Documentários",HGTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72143
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Documentários",HGTV HD
+http://dnsx.co:80/7885037935/fireurl.co/72144
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Alternativos",HGTV HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90422
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Documentários",HGTV SD
+http://dnsx.co:80/7885037935/fireurl.co/72145
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Alternativos",HGTV SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90423
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="4K [FHDR]",History 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90244
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários",History FHD
+http://dnsx.co:80/7885037935/fireurl.co/72146
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Alternativos",History FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90418
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários",History FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72147
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários",History HD
+http://dnsx.co:80/7885037935/fireurl.co/72148
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Alternativos",History HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90419
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários",History SD
+http://dnsx.co:80/7885037935/fireurl.co/72149
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Alternativos",History SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90420
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="4K [FHDR]",ID 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90243
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários",ID FHD
+http://dnsx.co:80/7885037935/fireurl.co/72150
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Alternativos",ID FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90415
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários",ID FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72151
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários",ID HD
+http://dnsx.co:80/7885037935/fireurl.co/72152
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Alternativos",ID HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90416
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários",ID SD
+http://dnsx.co:80/7885037935/fireurl.co/72153
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Alternativos",ID SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90417
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades",Lifetime FHD
+http://dnsx.co:80/7885037935/fireurl.co/72154
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Alternativos",Lifetime FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90412
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades",Lifetime FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72155
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades",Lifetime HD
+http://dnsx.co:80/7885037935/fireurl.co/72156
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Alternativos",Lifetime HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90413
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades",Lifetime SD
+http://dnsx.co:80/7885037935/fireurl.co/72157
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Alternativos",Lifetime SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90414
+#EXTINF:-1 tvg-logo="" group-title="PPV",Liga Futsal 2020 HD
+http://dnsx.co:80/7885037935/fireurl.co/73006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Variedades",Like FHD
+http://dnsx.co:80/7885037935/fireurl.co/72158
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Variedades",Like FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72159
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Variedades",Like HD
+http://dnsx.co:80/7885037935/fireurl.co/72160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Variedades",Like SD
+http://dnsx.co:80/7885037935/fireurl.co/72161
+#EXTINF:-1 tvg-logo="" group-title="Infantis",Loading TV SD
+http://dnsx.co:80/7885037935/fireurl.co/89700
+#EXTINF:-1 tvg-logo="" group-title="Documentários",Love Nature FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/73004
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades",Mais na Tela FHD
+http://dnsx.co:80/7885037935/fireurl.co/72162
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Alternativos",Mais na Tela FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90409
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades",Mais na Tela FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72163
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades",Mais na Tela HD
+http://dnsx.co:80/7885037935/fireurl.co/72164
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Alternativos",Mais na Tela HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90410
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Variedades",Mais na Tela SD
+http://dnsx.co:80/7885037935/fireurl.co/72165
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Alternativos",Mais na Tela SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90411
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="4K [FHDR]",Megapix 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72168
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries",Megapix FHD
+http://dnsx.co:80/7885037935/fireurl.co/72166
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Alternativos",Megapix FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90406
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries",Megapix FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72167
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Legendados",Megapix FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90680
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries",Megapix HD
+http://dnsx.co:80/7885037935/fireurl.co/72169
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Alternativos",Megapix HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90407
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Legendados",Megapix HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90679
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries",Megapix SD
+http://dnsx.co:80/7885037935/fireurl.co/72170
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Alternativos",Megapix SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90408
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Legendados",Megapix SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90678
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72171
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Alternativos",MTV FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90403
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72172
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV HD
+http://dnsx.co:80/7885037935/fireurl.co/72173
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Alternativos",MTV HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90404
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV Live FHD
+http://dnsx.co:80/7885037935/fireurl.co/72174
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV Live FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72175
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades",MTV Live HD
+http://dnsx.co:80/7885037935/fireurl.co/72176
+#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Variedades",MTV Live SD
+http://dnsx.co:80/7885037935/fireurl.co/72177
+#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Variedades",MTV SD
+http://dnsx.co:80/7885037935/fireurl.co/72178
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Alternativos",MTV SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90405
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="4K [FHDR]",Multishow 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72181
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades",Multishow FHD
+http://dnsx.co:80/7885037935/fireurl.co/72179
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Alternativos",Multishow FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90400
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades",Multishow FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72180
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades",Multishow HD
+http://dnsx.co:80/7885037935/fireurl.co/72182
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Alternativos",Multishow HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90401
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades",Multishow SD
+http://dnsx.co:80/7885037935/fireurl.co/72183
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Alternativos",Multishow SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90402
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades",Music Box Brazil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72184
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades",Music Box Brazil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72185
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades",Music Box Brazil HD
+http://dnsx.co:80/7885037935/fireurl.co/72186
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Variedades",Music Box Brazil SD
+http://dnsx.co:80/7885037935/fireurl.co/72187
+#EXTINF:-1 tvg-logo="" group-title="PPV",MyCujoo TV 1 HD
+http://dnsx.co:80/7885037935/fireurl.co/75026
+#EXTINF:-1 tvg-logo="" group-title="PPV",MyCujoo TV 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/77583
+#EXTINF:-1 tvg-logo="" group-title="PPV",MyCujoo TV 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/77584
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis",Nat Geo Kids FHD
+http://dnsx.co:80/7885037935/fireurl.co/72188
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Kids FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90397
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis",Nat Geo Kids FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72189
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis",Nat Geo Kids HD
+http://dnsx.co:80/7885037935/fireurl.co/72190
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Kids HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90398
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Infantis",Nat Geo Kids SD
+http://dnsx.co:80/7885037935/fireurl.co/72191
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Kids SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90399
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="4K [FHDR]",Nat Geo Wild 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90242
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários",Nat Geo Wild FHD
+http://dnsx.co:80/7885037935/fireurl.co/72192
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Wild FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90394
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários",Nat Geo Wild FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72193
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários",Nat Geo Wild HD
+http://dnsx.co:80/7885037935/fireurl.co/72194
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Wild HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90395
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Documentários",Nat Geo Wild SD
+http://dnsx.co:80/7885037935/fireurl.co/72195
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Alternativos",Nat Geo Wild SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90396
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="4K [FHDR]",National Geographic 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72198
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários",National Geographic FHD
+http://dnsx.co:80/7885037935/fireurl.co/72196
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Alternativos",National Geographic FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90391
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários",National Geographic FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72197
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários",National Geographic HD
+http://dnsx.co:80/7885037935/fireurl.co/72199
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Alternativos",National Geographic HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90392
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários",National Geographic SD
+http://dnsx.co:80/7885037935/fireurl.co/72200
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Alternativos",National Geographic SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90393
+#EXTINF:-1 tvg-logo="" group-title="Notícias",NHK SD
+http://dnsx.co:80/7885037935/fireurl.co/91990
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Infantis",Nick Jr FHD
+http://dnsx.co:80/7885037935/fireurl.co/72201
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Alternativos",Nick Jr FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90388
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis",Nick Jr FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72202
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis",Nick Jr HD
+http://dnsx.co:80/7885037935/fireurl.co/72203
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Alternativos",Nick Jr HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90389
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis",Nick Jr SD
+http://dnsx.co:80/7885037935/fireurl.co/72204
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Alternativos",Nick Jr SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90390
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="4K [FHDR]",Nickelodeon 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90241
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis",Nickelodeon FHD
+http://dnsx.co:80/7885037935/fireurl.co/72205
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Alternativos",Nickelodeon FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90385
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis",Nickelodeon FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72206
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis",Nickelodeon HD
+http://dnsx.co:80/7885037935/fireurl.co/72207
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Alternativos",Nickelodeon HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90386
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis",Nickelodeon SD
+http://dnsx.co:80/7885037935/fireurl.co/72208
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Alternativos",Nickelodeon SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90387
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="4K [FHDR]",OFF 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90240
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades",OFF FHD
+http://dnsx.co:80/7885037935/fireurl.co/72209
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Alternativos",OFF FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90382
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades",OFF FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72210
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades",OFF HD
+http://dnsx.co:80/7885037935/fireurl.co/72211
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Alternativos",OFF HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90383
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades",OFF SD
+http://dnsx.co:80/7885037935/fireurl.co/72212
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Alternativos",OFF SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90384
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Religiosos",Pai Eterno FHD
+http://dnsx.co:80/7885037935/fireurl.co/72213
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Religiosos",Pai Eterno FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72216
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Religiosos",Pai Eterno HD
+http://dnsx.co:80/7885037935/fireurl.co/72214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Religiosos",Pai Eterno SD
+http://dnsx.co:80/7885037935/fireurl.co/72215
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="4K [FHDR]",Paramount Channel 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90634
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries",Paramount Channel FHD
+http://dnsx.co:80/7885037935/fireurl.co/72217
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Alternativos",Paramount Channel FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90379
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries",Paramount Channel FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72218
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries",Paramount Channel HD
+http://dnsx.co:80/7885037935/fireurl.co/72219
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Alternativos",Paramount Channel HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90380
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries",Paramount Channel SD
+http://dnsx.co:80/7885037935/fireurl.co/72220
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Alternativos",Paramount Channel SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90381
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72237
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90376
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72238
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72239
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90377
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72240
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90378
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72241
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 3 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90373
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 3 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72242
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/72243
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 3 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90374
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 3 SD
+http://dnsx.co:80/7885037935/fireurl.co/72244
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 3 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90375
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 4 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72245
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 4 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90370
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 4 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72246
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 4 HD
+http://dnsx.co:80/7885037935/fireurl.co/72247
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 4 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90371
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 4 SD
+http://dnsx.co:80/7885037935/fireurl.co/72248
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 4 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90372
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 5 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72249
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 5 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90367
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 5 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72250
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 5 HD
+http://dnsx.co:80/7885037935/fireurl.co/72251
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 5 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90368
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 5 SD
+http://dnsx.co:80/7885037935/fireurl.co/72252
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 5 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90369
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 6 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72253
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 6 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90364
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 6 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72254
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 6 HD
+http://dnsx.co:80/7885037935/fireurl.co/72255
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 6 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90365
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 6 SD
+http://dnsx.co:80/7885037935/fireurl.co/72256
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 6 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90366
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 7 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72257
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 7 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90361
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 7 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72258
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 7 HD
+http://dnsx.co:80/7885037935/fireurl.co/72259
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 7 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90362
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 7 SD
+http://dnsx.co:80/7885037935/fireurl.co/72260
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 7 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90363
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 8 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90358
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 8 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90359
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere 8 SD
+http://dnsx.co:80/7885037935/fireurl.co/72261
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere 8 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90360
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="4K [FHDR]",Premiere Clubes 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72264
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere Clubes FHD
+http://dnsx.co:80/7885037935/fireurl.co/72262
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere Clubes FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90355
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere Clubes FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72263
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere Clubes HD
+http://dnsx.co:80/7885037935/fireurl.co/72265
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere Clubes HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90356
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere",Premiere Clubes SD
+http://dnsx.co:80/7885037935/fireurl.co/72266
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Alternativos",Premiere Clubes SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90357
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades",Prime Box Brazil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72267
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades",Prime Box Brazil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72268
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades",Prime Box Brazil HD
+http://dnsx.co:80/7885037935/fireurl.co/72269
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades",Prime Box Brazil SD
+http://dnsx.co:80/7885037935/fireurl.co/72270
+http://dnsx.co:80/7885037935/fireurl.co/75025
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias",Record News FHD
+http://dnsx.co:80/7885037935/fireurl.co/72271
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias",Record News HD
+http://dnsx.co:80/7885037935/fireurl.co/72272
+#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Notícias",Record News SD
+http://dnsx.co:80/7885037935/fireurl.co/72273
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV BA HD
+http://dnsx.co:80/7885037935/fireurl.co/72976
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV Belem SD
+http://dnsx.co:80/7885037935/fireurl.co/73262
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV Brasilia HD
+http://dnsx.co:80/7885037935/fireurl.co/72629
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Cabrália FHD
+http://dnsx.co:80/7885037935/fireurl.co/72274
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Cabrália HD
+http://dnsx.co:80/7885037935/fireurl.co/72275
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Cabrália SD
+http://dnsx.co:80/7885037935/fireurl.co/72276
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV ES FHD
+http://dnsx.co:80/7885037935/fireurl.co/77651
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV ES HD
+http://dnsx.co:80/7885037935/fireurl.co/77652
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV ES SD
+http://dnsx.co:80/7885037935/fireurl.co/77653
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Goias FHD
+http://dnsx.co:80/7885037935/fireurl.co/72277
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Goias HD
+http://dnsx.co:80/7885037935/fireurl.co/72278
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Goias SD
+http://dnsx.co:80/7885037935/fireurl.co/72279
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Interior SP FHD
+http://dnsx.co:80/7885037935/fireurl.co/72280
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Interior SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72281
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Interior SP SD
+http://dnsx.co:80/7885037935/fireurl.co/72282
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Itapoan FHD
+http://dnsx.co:80/7885037935/fireurl.co/72283
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Itapoan HD
+http://dnsx.co:80/7885037935/fireurl.co/72284
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Itapoan SD
+http://dnsx.co:80/7885037935/fireurl.co/72285
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Litoral/Vale FHD
+http://dnsx.co:80/7885037935/fireurl.co/72286
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Litoral/Vale HD
+http://dnsx.co:80/7885037935/fireurl.co/72287
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV Litoral/Vale SD
+http://dnsx.co:80/7885037935/fireurl.co/72288
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV MG HD
+http://dnsx.co:80/7885037935/fireurl.co/72619
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV RIC Maringa FHD
+http://dnsx.co:80/7885037935/fireurl.co/72289
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV RIC Maringa FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72290
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV RIC Maringa HD
+http://dnsx.co:80/7885037935/fireurl.co/72291
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV RIC Maringa SD
+http://dnsx.co:80/7885037935/fireurl.co/72292
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV RJ HD
+http://dnsx.co:80/7885037935/fireurl.co/72594
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV RS HD
+http://dnsx.co:80/7885037935/fireurl.co/72974
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV RS SD
+http://dnsx.co:80/7885037935/fireurl.co/72975
+#EXTINF:-1 tvg-logo="" group-title="Abertos",RecordTV S.J. do Rio Preto HD
+http://dnsx.co:80/7885037935/fireurl.co/73261
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV SP FHD
+http://dnsx.co:80/7885037935/fireurl.co/77654
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV SP FHD  [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72595
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Alternativos",RecordTV SP FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90352
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72973
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Alternativos",RecordTV SP HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90353
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Alternativos",RecordTV SP SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90354
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos",Rede Vida FHD
+http://dnsx.co:80/7885037935/fireurl.co/72293
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos",Rede Vida FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72294
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos",Rede Vida HD
+http://dnsx.co:80/7885037935/fireurl.co/72295
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Religiosos",Rede Vida SD
+http://dnsx.co:80/7885037935/fireurl.co/72296
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos",RedeTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72297
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos",RedeTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72298
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos",RedeTV HD
+http://dnsx.co:80/7885037935/fireurl.co/72299
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Abertos",RedeTV SD
+http://dnsx.co:80/7885037935/fireurl.co/72300
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Alternativos",RedeTV SP FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90349
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Alternativos",RedeTV SP HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90350
+#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Alternativos",RedeTV SP SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90351
+#EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Religiosos",RIT TV SD
+http://dnsx.co:80/7885037935/fireurl.co/72301
+#EXTINF:-1 tvg-logo="" group-title="Abertos",SBT ES FHD
+http://dnsx.co:80/7885037935/fireurl.co/79308
+#EXTINF:-1 tvg-logo="" group-title="Abertos",SBT ES HD
+http://dnsx.co:80/7885037935/fireurl.co/79309
+#EXTINF:-1 tvg-logo="" group-title="Abertos",SBT ES SD
+http://dnsx.co:80/7885037935/fireurl.co/79310
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT Rede Massa PR FHD
+http://dnsx.co:80/7885037935/fireurl.co/72303
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT Rede Massa PR FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72304
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT Rede Massa PR HD
+http://dnsx.co:80/7885037935/fireurl.co/72305
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT Rede Massa PR SD
+http://dnsx.co:80/7885037935/fireurl.co/72306
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT RJ FHD
+http://dnsx.co:80/7885037935/fireurl.co/72307
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT RJ FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72308
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT RJ HD
+http://dnsx.co:80/7885037935/fireurl.co/72302
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT RS HD
+http://dnsx.co:80/7885037935/fireurl.co/75028
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT SD
+http://dnsx.co:80/7885037935/fireurl.co/72309
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT SP FHD
+http://dnsx.co:80/7885037935/fireurl.co/77963
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Alternativos",SBT SP FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90346
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72598
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Alternativos",SBT SP HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90347
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT SP SD
+http://dnsx.co:80/7885037935/fireurl.co/77964
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Alternativos",SBT SP SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90348
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT TV Alterosa HD
+http://dnsx.co:80/7885037935/fireurl.co/72621
+#EXTINF:-1 tvg-logo="" group-title="Abertos",Shoptime SD
+http://dnsx.co:80/7885037935/fireurl.co/72311
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Variedades",SIC Internacional SD
+http://dnsx.co:80/7885037935/fireurl.co/72312
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Filmes e Séries",Smithsonian FHD
+http://dnsx.co:80/7885037935/fireurl.co/72313
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Filmes e Séries",Smithsonian FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72314
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Filmes e Séries",Smithsonian HD
+http://dnsx.co:80/7885037935/fireurl.co/72315
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Filmes e Séries",Smithsonian SD
+http://dnsx.co:80/7885037935/fireurl.co/72316
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Alternativos",Sony Channel FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90343
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Alternativos",Sony Channel HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90344
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Alternativos",Sony Channel SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90345
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="4K [FHDR]",Space 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90633
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries",Space FHD
+http://dnsx.co:80/7885037935/fireurl.co/72317
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Alternativos",Space FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90340
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries",Space FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72318
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Legendados",Space FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90677
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries",Space HD
+http://dnsx.co:80/7885037935/fireurl.co/72319
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Alternativos",Space HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90341
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Legendados",Space HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90676
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries",Space SD
+http://dnsx.co:80/7885037935/fireurl.co/72320
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Alternativos",Space SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90342
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Legendados",Space SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90675
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="SporTV",SporTV 2 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72321
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Alternativos",SporTV 2 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90337
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="SporTV",SporTV 2 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72322
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="SporTV",SporTV 2 HD
+http://dnsx.co:80/7885037935/fireurl.co/72323
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Alternativos",SporTV 2 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90338
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="SporTV",SporTV 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72324
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Alternativos",SporTV 2 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90339
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="SporTV",SporTV 3 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72325
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Alternativos",SporTV 3 FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90334
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="SporTV",SporTV 3 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72326
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="SporTV",SporTV 3 HD
+http://dnsx.co:80/7885037935/fireurl.co/72327
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Alternativos",SporTV 3 HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90335
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="SporTV",SporTV 3 SD
+http://dnsx.co:80/7885037935/fireurl.co/72328
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Alternativos",SporTV 3 SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90336
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="4K [FHDR]",SporTV 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72331
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="SporTV",SporTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72329
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Alternativos",SporTV FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90331
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="SporTV",SporTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72330
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="SporTV",SporTV HD
+http://dnsx.co:80/7885037935/fireurl.co/72332
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Alternativos",SporTV HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90332
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="SporTV",SporTV SD
+http://dnsx.co:80/7885037935/fireurl.co/72333
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Alternativos",SporTV SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90333
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries",Studio Universal FHD
+http://dnsx.co:80/7885037935/fireurl.co/72334
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Alternativos",Studio Universal FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90328
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries",Studio Universal FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72335
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries",Studio Universal HD
+http://dnsx.co:80/7885037935/fireurl.co/72336
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Alternativos",Studio Universal HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90329
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries",Studio Universal SD
+http://dnsx.co:80/7885037935/fireurl.co/72337
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Alternativos",Studio Universal SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90330
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries",SyFy FHD
+http://dnsx.co:80/7885037935/fireurl.co/72338
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Alternativos",SyFy FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90325
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries",SyFy FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72339
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries",SyFy HD
+http://dnsx.co:80/7885037935/fireurl.co/72340
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Alternativos",SyFy HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90326
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries",SyFy SD
+http://dnsx.co:80/7885037935/fireurl.co/72341
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Alternativos",SyFy SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90327
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries",TBS FHD
+http://dnsx.co:80/7885037935/fireurl.co/72342
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries",TBS FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72343
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries",TBS HD
+http://dnsx.co:80/7885037935/fireurl.co/72344
+#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Filmes e Séries",TBS SD
+http://dnsx.co:80/7885037935/fireurl.co/72345
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM FHD
+http://dnsx.co:80/7885037935/fireurl.co/73251
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM HD
+http://dnsx.co:80/7885037935/fireurl.co/73252
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM SD 
+http://dnsx.co:80/7885037935/fireurl.co/73253
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="4K [FHDR]",Telecine Action 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90239
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Telecine",Telecine Action FHD
+http://dnsx.co:80/7885037935/fireurl.co/72346
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Alternativos",Telecine Action FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90322
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Telecine",Telecine Action FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72347
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Legendados",Telecine Action FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90668
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Telecine",Telecine Action HD
+http://dnsx.co:80/7885037935/fireurl.co/72348
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Alternativos",Telecine Action HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90323
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Legendados",Telecine Action HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90667
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Telecine",Telecine Action SD
+http://dnsx.co:80/7885037935/fireurl.co/72349
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Alternativos",Telecine Action SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90324
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Legendados",Telecine Action SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90666
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Telecine",Telecine Cult FHD
+http://dnsx.co:80/7885037935/fireurl.co/72350
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Alternativos",Telecine Cult FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90319
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Telecine",Telecine Cult FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72351
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Legendados",Telecine Cult FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90665
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Telecine",Telecine Cult HD
+http://dnsx.co:80/7885037935/fireurl.co/72352
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Alternativos",Telecine Cult HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90320
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Legendados",Telecine Cult HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90664
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Telecine",Telecine Cult SD
+http://dnsx.co:80/7885037935/fireurl.co/72353
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Alternativos",Telecine Cult SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90321
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Legendados",Telecine Cult SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90663
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Telecine",Telecine Fun FHD
+http://dnsx.co:80/7885037935/fireurl.co/72354
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Alternativos",Telecine Fun FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90316
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Telecine",Telecine Fun FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72355
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Legendados",Telecine Fun FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90662
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Telecine",Telecine Fun HD
+http://dnsx.co:80/7885037935/fireurl.co/72356
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Alternativos",Telecine Fun HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90317
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Legendados",Telecine Fun HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90661
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Telecine",Telecine Fun SD
+http://dnsx.co:80/7885037935/fireurl.co/72357
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Alternativos",Telecine Fun SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90318
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Legendados",Telecine Fun SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90660
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="4K [FHDR]",Telecine Pipoca 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90238
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Telecine",Telecine Pipoca FHD
+http://dnsx.co:80/7885037935/fireurl.co/72358
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Alternativos",Telecine Pipoca FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90313
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Telecine",Telecine Pipoca FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72359
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Legendados",Telecine Pipoca FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90659
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Telecine",Telecine Pipoca HD
+http://dnsx.co:80/7885037935/fireurl.co/72360
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Alternativos",Telecine Pipoca HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90314
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Legendados",Telecine Pipoca HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90658
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Telecine",Telecine Pipoca SD
+http://dnsx.co:80/7885037935/fireurl.co/72361
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Alternativos",Telecine Pipoca SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90315
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Legendados",Telecine Pipoca SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90657
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="4K [FHDR]",Telecine Premium 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90237
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Telecine",Telecine Premium FHD
+http://dnsx.co:80/7885037935/fireurl.co/72362
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Alternativos",Telecine Premium FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90310
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Telecine",Telecine Premium FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72363
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Legendados",Telecine Premium FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90656
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Telecine",Telecine Premium HD
+http://dnsx.co:80/7885037935/fireurl.co/72364
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Alternativos",Telecine Premium HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90311
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Legendados",Telecine Premium HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90655
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Telecine",Telecine Premium SD
+http://dnsx.co:80/7885037935/fireurl.co/72365
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Alternativos",Telecine Premium SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90312
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Legendados",Telecine Premium SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90654
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Telecine",Telecine Touch FHD
+http://dnsx.co:80/7885037935/fireurl.co/72366
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Alternativos",Telecine Touch FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90307
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Telecine",Telecine Touch FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72367
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Legendados",Telecine Touch FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90653
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Telecine",Telecine Touch HD
+http://dnsx.co:80/7885037935/fireurl.co/72368
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Alternativos",Telecine Touch HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90308
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Legendados",Telecine Touch HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90652
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Telecine",Telecine Touch SD
+http://dnsx.co:80/7885037935/fireurl.co/72369
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Alternativos",Telecine Touch SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90309
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Legendados",Telecine Touch SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90651
+#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Abertos",Terra Viva SD
+http://dnsx.co:80/7885037935/fireurl.co/72370
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades",TLC FHD
+http://dnsx.co:80/7885037935/fireurl.co/72371
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Alternativos",TLC FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90304
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades",TLC FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72372
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades",TLC HD
+http://dnsx.co:80/7885037935/fireurl.co/72373
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Alternativos",TLC HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90305
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades",TLC SD
+http://dnsx.co:80/7885037935/fireurl.co/72374
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Alternativos",TLC SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90306
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="4K [FHDR]",TNT 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72377
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries",TNT FHD
+http://dnsx.co:80/7885037935/fireurl.co/72375
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Alternativos",TNT FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90301
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries",TNT FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72376
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Legendados",TNT FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90674
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries",TNT HD
+http://dnsx.co:80/7885037935/fireurl.co/72378
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Alternativos",TNT HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90302
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Legendados",TNT HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90673
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries",TNT SD
+http://dnsx.co:80/7885037935/fireurl.co/72379
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Alternativos",TNT SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90303
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Legendados",TNT SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90672
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="4K [FHDR]",TNT Series 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/72382
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries",TNT Series FHD
+http://dnsx.co:80/7885037935/fireurl.co/72380
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Alternativos",TNT Series FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90298
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries",TNT Series FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72381
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Legendados",TNT Series FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90671
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries",TNT Series HD
+http://dnsx.co:80/7885037935/fireurl.co/72383
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Alternativos",TNT Series HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90299
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Legendados",TNT Series HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90670
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries",TNT Series SD
+http://dnsx.co:80/7885037935/fireurl.co/72384
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Alternativos",TNT Series SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90300
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Legendados",TNT Series SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90669
+#EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Infantis",Tooncast SD
+http://dnsx.co:80/7885037935/fireurl.co/72385
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Variedades",Trace Brazuca FHD
+http://dnsx.co:80/7885037935/fireurl.co/72386
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Variedades",Trace Brazuca FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72387
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Variedades",Trace Brazuca HD
+http://dnsx.co:80/7885037935/fireurl.co/72388
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Variedades",Trace Brazuca SD
+http://dnsx.co:80/7885037935/fireurl.co/72389
+#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Variedades",Travel Box Brazil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72390
+#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Variedades",Travel Box Brazil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72391
+#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Variedades",Travel Box Brazil HD
+http://dnsx.co:80/7885037935/fireurl.co/72392
+#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Variedades",Travel Box Brazil SD
+http://dnsx.co:80/7885037935/fireurl.co/72393
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários",TruTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/76668
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Alternativos",TruTV FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90295
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários",TruTV HD
+http://dnsx.co:80/7885037935/fireurl.co/76669
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Alternativos",TruTV HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90296
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Documentários",TruTV SD
+http://dnsx.co:80/7885037935/fireurl.co/76670
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Alternativos",TruTV SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90297
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos",TV Aparecida FHD
+http://dnsx.co:80/7885037935/fireurl.co/72394
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos",TV Aparecida FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72395
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos",TV Aparecida HD
+http://dnsx.co:80/7885037935/fireurl.co/72396
+#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Religiosos",TV Aparecida SD
+http://dnsx.co:80/7885037935/fireurl.co/72397
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Aratu SBT Bahia HD
+http://dnsx.co:80/7885037935/fireurl.co/73260
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil 2 SD
+http://dnsx.co:80/7885037935/fireurl.co/72398
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil FHD
+http://dnsx.co:80/7885037935/fireurl.co/72399
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72400
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil HD
+http://dnsx.co:80/7885037935/fireurl.co/72401
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil SD
+http://dnsx.co:80/7885037935/fireurl.co/72402
+#EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Abertos",TV Camara SD
+http://dnsx.co:80/7885037935/fireurl.co/72403
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Religiosos",TV Cancao Nova SD
+http://dnsx.co:80/7885037935/fireurl.co/72404
+#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Abertos",TV Cidade RecordTV FHD
+http://dnsx.co:80/7885037935/fireurl.co/92666
+#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Abertos",TV Cidade RecordTV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/92667
+#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Abertos",TV Cidade RecordTV HD
+http://dnsx.co:80/7885037935/fireurl.co/92668
+#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Abertos",TV Cidade RecordTV SD
+http://dnsx.co:80/7885037935/fireurl.co/92669
+#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Abertos",TV Diario Fortaleza FHD
+http://dnsx.co:80/7885037935/fireurl.co/92670
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Diario Fortaleza HD
+http://dnsx.co:80/7885037935/fireurl.co/72593
+#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Abertos",TV Diario Fortaleza SD
+http://dnsx.co:80/7885037935/fireurl.co/92671
+#EXTINF:-1 tvg-logo="" group-title="Religiosos",TV Evangelizar SD
+http://dnsx.co:80/7885037935/fireurl.co/72628
+#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos",TV Gazeta SP HD
+http://dnsx.co:80/7885037935/fireurl.co/72406
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Guarapari FHD
+http://dnsx.co:80/7885037935/fireurl.co/79313
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Guarapari HD
+http://dnsx.co:80/7885037935/fireurl.co/79314
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Guarapari SD
+http://dnsx.co:80/7885037935/fireurl.co/79315
+#EXTINF:-1 tvg-logo="" group-title="Abertos",TV Justiça SD
+http://dnsx.co:80/7885037935/fireurl.co/77620
+#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Religiosos",TV Novo Tempo FHD
+http://dnsx.co:80/7885037935/fireurl.co/72408
+#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Religiosos",TV Novo Tempo FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72409
+#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Religiosos",TV Novo Tempo HD
+http://dnsx.co:80/7885037935/fireurl.co/72410
+#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Religiosos",TV Novo Tempo SD
+http://dnsx.co:80/7885037935/fireurl.co/72411
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis",TV Ra-Tim-Bum FHD
+http://dnsx.co:80/7885037935/fireurl.co/72412
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis",TV Ra-Tim-Bum FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72413
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis",TV Ra-Tim-Bum HD
+http://dnsx.co:80/7885037935/fireurl.co/72414
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis",TV Ra-Tim-Bum SD
+http://dnsx.co:80/7885037935/fireurl.co/72415
+#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Abertos",TV Senado SD
+http://dnsx.co:80/7885037935/fireurl.co/72416
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TV WA SD
+http://dnsx.co:80/7885037935/fireurl.co/72417
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TV5 Monde SD
+http://dnsx.co:80/7885037935/fireurl.co/72418
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="4K [FHDR]",Universal TV 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90632
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries",Universal TV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72419
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Alternativos",Universal TV FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90292
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries",Universal TV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72420
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries",Universal TV HD
+http://dnsx.co:80/7885037935/fireurl.co/72421
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Alternativos",Universal TV HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90293
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries",Universal TV SD
+http://dnsx.co:80/7885037935/fireurl.co/72422
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Alternativos",Universal TV SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90294
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades",VH1 FHD
+http://dnsx.co:80/7885037935/fireurl.co/72423
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades",VH1 FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72424
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades",VH1 HD
+http://dnsx.co:80/7885037935/fireurl.co/72425
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Variedades",VH1 SD
+http://dnsx.co:80/7885037935/fireurl.co/72426
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades",Viva FHD
+http://dnsx.co:80/7885037935/fireurl.co/72427
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Alternativos",Viva FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90289
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades",Viva FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72428
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades",Viva HD
+http://dnsx.co:80/7885037935/fireurl.co/72429
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Alternativos",Viva HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90290
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades",Viva SD
+http://dnsx.co:80/7885037935/fireurl.co/72430
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Alternativos",Viva SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90291
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="4K [FHDR]",Warner Channel 4K FHDR
+http://dnsx.co:80/7885037935/fireurl.co/90236
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries",Warner Channel FHD
+http://dnsx.co:80/7885037935/fireurl.co/72431
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Alternativos",Warner Channel FHD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90286
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries",Warner Channel FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72432
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Legendados",Warner Channel FHD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90650
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries",Warner Channel HD
+http://dnsx.co:80/7885037935/fireurl.co/72433
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Alternativos",Warner Channel HD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90287
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Legendados",Warner Channel HD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90649
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries",Warner Channel SD
+http://dnsx.co:80/7885037935/fireurl.co/72434
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Alternativos",Warner Channel SD [Alter]
+http://dnsx.co:80/7885037935/fireurl.co/90288
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Legendados",Warner Channel SD [LEG]
+http://dnsx.co:80/7885037935/fireurl.co/90648
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades",WooHoo FHD
+http://dnsx.co:80/7885037935/fireurl.co/72435
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades",WooHoo FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72436
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades",WooHoo HD
+http://dnsx.co:80/7885037935/fireurl.co/72437
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades",WooHoo SD
+http://dnsx.co:80/7885037935/fireurl.co/72438
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos",[+18] Playboy TV FHD
+http://dnsx.co:80/7885037935/fireurl.co/72221
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos",[+18] Playboy TV FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72224
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos",[+18] Playboy TV HD
+http://dnsx.co:80/7885037935/fireurl.co/72222
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos",[+18] Playboy TV SD
+http://dnsx.co:80/7885037935/fireurl.co/72223
+#EXTINF:-1 tvg-logo="" group-title="Adultos",[+18] Sextreme SD
+http://dnsx.co:80/7885037935/fireurl.co/91430
+#EXTINF:-1 tvg-logo="" group-title="Adultos",[+18] Sexy Hot SD
+http://dnsx.co:80/7885037935/fireurl.co/72310
+#EXTINF:-1 tvg-logo="" group-title="Adultos",[+18] Venus SD
+http://dnsx.co:80/7885037935/fireurl.co/91429
+
